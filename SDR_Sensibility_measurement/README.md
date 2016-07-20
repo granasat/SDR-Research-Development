@@ -1,3 +1,14 @@
+#![alt text](https://granasat.ugr.es/templates/sj_plus/favicon.ico "GranaSAT Logo") Comunicatio Test Set Marconi 2955A
+
+  This example files have been tested on GranaSAT GPIB Transceiver.
+
+  This two MATLAB files are the examples that the Students of the UGR have generated to remote control the Comunication Test Set Marconi 2955A  [Link to the PDF Manual](http://exodus.poly.edu/~kurt/manuals/manuals/Other/MARCONI%202955A,%202955R%20Operating.pdf)
+  
+  ---
+  
+  Front side of the Signal Generator: 
+![alt text](https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiY-OiixoLOAhXDORoKHYH9AJUQjRwIBw&url=http%3A%2F%2Fwww.wa8kim.com%2FGMRS.html&psig=AFQjCNF8jbtdBMsNq0TP8JW_PccNbuE2HA&ust=1469121514432497)
+
 #![alt text](https://granasat.ugr.es/templates/sj_plus/favicon.ico "GranaSAT Logo") SDR RF Sensitivity Measurement
 
   This example files have been tested on GranaSAT Ground Station. We have measured de RF sentivity of a low cost SDR-RTL from Aliexpress and FunDongle Pro +.
@@ -5,13 +16,28 @@
   This two MATLAB files are the examples that the Students of the UGR have generated to remote control the Comunication Test Set Marconi 2955A using kpib library.
 
   This MATLAB files measure the sensitivity of SDR-RTL and FunDongle Pro +
+
+  [Link to the manual that describes this procces](https://github.com/granasat/SDR-Research-Development/blob/master/SDR_Sensibility_measurement/SDR%20sensibility%20measurement.pdf)
   
   
   RTL-sdr: 
-![alt text](http://erewhon.superkuh.com/gnuradio/rtlsdr_QS_FSC_USB_DVB-T.jpg "Funcube Dongle Pro+")
+![alt text](http://erewhon.superkuh.com/gnuradio/rtlsdr_QS_FSC_USB_DVB-T.jpg "RTL-SDR")
 [Documentation](https://sites.google.com/site/fppghsa/The-Hobbyists-Guide-to-the-RTLSDR-Really-Cheap-Software-Defined-Radio)
 
   FunDongle Pro+: 
 ![alt text](https://images-eu.ssl-images-amazon.com/images/I/51VfOyMxW8L._SX300_.jpg "Funcube Dongle Pro+")
 [Pro+ Downloads & Documentation](http://www.funcubedongle.com/?page_id=1225)
+
+
+
+ Results of the SDR sensibility measurements:
+
+ SDR-RTL sensibility:
+ ![alt text](https://github.com/granasat/SDR-Research-Development/blob/master/SDR_Sensibility_measurement/Measurements_results/accuracyRTLaverage.png "RTL-SDR sensibility")
+
+ Funcube Dongle Pro+ sensibility:
+ ![alt text](https://github.com/granasat/SDR-Research-Development/blob/master/SDR_Sensibility_measurement/Measurements_results/accuracyFUNaverage.png "Funcube Dongle Pro+ sensibility")
+
+ Comparison:
+ ![alt text](https://github.com/granasat/SDR-Research-Development/blob/master/SDR_Sensibility_measurement/Measurements_results/accuracyFUNRTL.png "Comparision")
 
