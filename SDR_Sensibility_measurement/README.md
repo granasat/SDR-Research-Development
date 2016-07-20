@@ -1,4 +1,4 @@
-#![alt text](https://granasat.ugr.es/templates/sj_plus/favicon.ico "GranaSAT Logo") Comunicatio Test Set Marconi 2955A
+#![alt text](https://granasat.ugr.es/templates/sj_plus/favicon.ico "GranaSAT Logo") Comunication Test Set Marconi 2955A
 
   This example files have been tested on GranaSAT GPIB Transceiver.
 
@@ -7,7 +7,7 @@
   ---
   
   Front side of the Signal Generator: 
-![alt text](https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiY-OiixoLOAhXDORoKHYH9AJUQjRwIBw&url=http%3A%2F%2Fwww.wa8kim.com%2FGMRS.html&psig=AFQjCNF8jbtdBMsNq0TP8JW_PccNbuE2HA&ust=1469121514432497)
+![alt text](http://www.geocities.ws/pdmtr/Marconi_2955_2.jpg)
 
 #![alt text](https://granasat.ugr.es/templates/sj_plus/favicon.ico "GranaSAT Logo") SDR RF Sensitivity Measurement
 
