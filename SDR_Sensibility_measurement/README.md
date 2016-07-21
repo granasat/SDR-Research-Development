@@ -1,4 +1,4 @@
-#![alt text](https://granasat.ugr.es/templates/sj_plus/favicon.ico "GranaSAT Logo") Comunication Test Set Marconi 2955A
+#![alt text](http://granasat.ugr.es/images/logotipos/granasat/GranaSAT64.png "GranaSAT Logo") Comunication Test Set Marconi 2955A
 
   This example files have been tested on GranaSAT GPIB Transceiver.
 
@@ -9,7 +9,7 @@
   Front side of the Signal Generator: 
 ![alt text](http://www.geocities.ws/pdmtr/Marconi_2955_2.jpg)
 
-#![alt text](https://granasat.ugr.es/templates/sj_plus/favicon.ico "GranaSAT Logo") SDR RF Sensitivity Measurement
+#![alt text](http://granasat.ugr.es/images/logotipos/granasat/GranaSAT64.png "GranaSAT Logo") SDR RF Sensitivity Measurement
 
   This example files have been tested on GranaSAT Ground Station. We have measured de RF sentivity of a low cost SDR-RTL from Aliexpress and FunDongle Pro +.
 
